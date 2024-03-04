@@ -1,0 +1,69 @@
+{
+  "page-title": "Donate",
+  "tTopBar": "Donate",
+  "financialDes": "Please Enter Your Donation Amount",
+  "moralP": "Moral Donation",
+  "moralDes": "Please Tell Us Your Moral Donate For Example",
+  "ideasP": "Idea Donation",
+  "financialP": "Financial Donation",
+  "howMuchDonate": "How much money do you want to donate?",
+  "importDonationAmount": "Enter your donation amount",
+  "ideasDes": "Please Tell Us Your Idea Donate For Example",
+  "financialAmountCustom": "For custom amount, click on the field above",
+  "pressenceP": "In-person Donation",
+  "pressenceDes": "Please Tell Us Your In Person Donate For Example",
+  "capacityP": "Valency Donation",
+  "capacityDes": "Please Tell Us Your Valency Donate For Example",
+  "skillP": "Professional Donation",
+  "skillDes": "Please Tell Us Your Professional Donate For Example",
+  "pressenceParticipationAgainWarning": "You have already registered your participation",
+  "creditPayment": "Payment from wallet",
+  "successfulParticipationRegistration": "Your participation has been successfully registered",
+  "paymentType": "Select payment type",
+  "paymentTypeDes": "You can choose one of the methods to register your donation and make payment",
+  "creditPaymentDes": "Using this method, you can pay with your payment wallet.",
+  "gatewayPayment": "Connecting to the payment gateway",
+  "gatewayPaymentDes": "Using this method, you can connect to the payment portal.",
+  "participateNow": "Donate Now",
+  "minimumParticipationAmount": "The minimum participation amount is 10 thousand toman.",
+  "maximumParticipationAmount": "The maximum donation amount is 100 thousand dollars.",
+  "amountDonation": "Donation Amount",
+  "errorParticipateFinancialyInYourProject": "You can not participate financialy in your own project",
+  "notEnoughCredit": "Your credit is not enough",
+  "getReceipt":"Get receipt",
+  "myParticipations": {
+    "donateList": "Donations List",
+    "financial": "Financial",
+    "moral": "Moral",
+    "professional": "Professional",
+    "valency": "Valency",
+    "ideas": "Idea",
+    "inPerson": "In Person",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "pending": "Pending",
+    "price": "Donation Amount",
+    "date": "Date",
+    "$": "$"
+  },
+  "participations-placeholder-description": {
+    "financial": {
+      "placeholderDescription": ""
+    },
+    "moral": {
+      "placeholderDescription": "Things like publishing the project or helping to advance the project in absentia"
+    },
+    "ideas": {
+      "placeholderDescription": "Providing opinions, experiences and solutions to improve project performance"
+    },
+    "pressence": {
+      "placeholderDescription": ""
+    },
+    "capacity": {
+      "placeholderDescription": "Donate goods and any equipment you can"
+    },
+    "skill": {
+      "placeholderDescription": "Profession and expertise that helps the project"
+    }
+  }
+}

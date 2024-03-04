@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://hnaya.ir
+
+# Sitemaps
+Sitemap: https://hnaya.ir/sitemap.xml

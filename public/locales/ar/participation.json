@@ -1,0 +1,70 @@
+{
+  "page-title": "المشاركة",
+  "tTopBar": "المشاركة",
+  "financialDes": "أدرج حجم مشارتك المالية",
+  "moralP": "المشاركة المعنوية",
+  "moralDes": "من فضلك أخبرنا بتبرعك الأخلاقي على سبيل المثال",
+  "ideasP": "مشاركة الفكرة",
+  "financialP": "المشاركة المالية",
+  "howMuchDonate": "ماهو المبلغ الذي تريد دفعه للمساعدة؟",
+  "importDonationAmount": "أدرج حجم مشارتك المالية",
+  "ideasDes": "من فضلك أخبرنا بفكرتك تبرع على سبيل المثال",
+  "financialAmountCustom": "للحصول على مبلغ مخصص، انقر على الحقل أعلاه",
+  "pressenceP": "المشاركة الحضورية",
+  "pressenceDes": "من فضلك أخبرنا بتبرعك الشخصي على سبيل المثال",
+  "capacityP": "مشاركة المساعدات",
+  "capacityDes": "من فضلك أخبرنا بالتبرع بتكافؤك على سبيل المثال",
+  "skillP": "مشاركة التخصصات",
+  "skillDes": "من فضلك أخبرنا بالتبرع المهني الخاص بك على سبيل المثال",
+  "pressenceParticipationAgainWarning": "لقد قمت بالفعل بتسجيل مشاركتك",
+  "creditPayment": "الدفع من الائتمان",
+  "successfulParticipationRegistration": "لقد تم تسجيل مشاركتك بنجاح",
+  "unSuccessfulPayment": "لم تكن عملية الدفع الخاصة بك ناجحة",
+  "successfulPayment": "الدفع الخاص بك كان ناجحا",
+  "paymentType": "اختيار نوع الدفع",
+  "paymentTypeDes": "يمكنك اختيار إحدى الحالات التالية لتسجيل مشاركتك ودفع المبلغ",
+  "creditPaymentDes": "يمكنك الدفع من حقيبة النقود عن هذا الطريق",
+  "gatewayPayment": "الاتصال إلی بوابة الدفع",
+  "gatewayPaymentDes": "يمكنك الدخول إلى بوابة الدفع عن هذا الطريق",
+  "participateNow": "شارك الآن",
+  "minimumParticipationAmount": "الحد الأدنى للمشاركة دولار واحد",
+  "maximumParticipationAmount": "الحد الأقصى للمشاركة 100000 دولار",
+  "amountDonation": "حجم المشاركة المالية",
+  "errorParticipateFinancialyInYourProject": "لا يمكنك المشاركة مالياً في مشروعك الخاص",
+  "notEnoughCredit":"الائتمان غير كاف",
+  "myParticipations": {
+    "donateList": "قائمة المشارکات",
+    "financial": "المالية",
+    "moral": "المعنوية",
+    "professional": "التخصصات",
+    "valency": "المساعدات",
+    "ideas": "الفكرة",
+    "inPerson": "الحضورية",
+    "approved": "تم تأييده",
+    "rejected": "تم رفضه",
+    "pending": "قيد التحقيق",
+    "price": "حجم المشاركة المالية",
+    "date": "التأريخ",
+    "$": "$"
+  },
+  "participations-placeholder-description": {
+    "financial": {
+      "placeholderDescription": ""
+    },
+    "moral": {
+      "placeholderDescription": "أشياء مثل نشر المشروع أو المساعدة في تطوير المشروع غيابيًا"
+    },
+    "ideas": {
+      "placeholderDescription": "تقديم الآراء والخبرات والحلول لتحسين أداء المشروع"
+    },
+    "pressence": {
+      "placeholderDescription": ""
+    },
+    "capacity": {
+      "placeholderDescription": "تبرع بالبضائع وأي معدات يمكنك التبرع بها"
+    },
+    "skill": {
+      "placeholderDescription": "المهنة والخبرة التي تساعد المشروع"
+    }
+  }
+}

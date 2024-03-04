@@ -1,0 +1,19 @@
+{
+  "map": {
+    "mapGuide": "Map guide",
+    "projectStatus": "Project Status",
+    "projectStatusDes": "The colors you see indicate the status of each project, and you can use the following guide to identify the status of each project on the map and take the necessary actions."
+  },
+  "siteDescription": {
+    "title": "site Info",
+    "subTitle": "Specialized platform for voluntary activities",
+    "introducingPlatform": "Introducing the platform",
+    "platformDescription": "Mofid is a platform that brings people and organizations together for a common goal; Making a positive impact on our community. We believe that collective action is the key to creating meaningful change, and we invite you to join us on this journey.Spirituality, education, health care, environmental protection, or any other topic you are interested in, Mofid is here to facilitate your participation. Using this platform, you can connect with people, organizations and volunteer organizations who share your vision.Together we can strengthen our influence and create more effective changes. Mofid allows you to easily discover and contribute to projects that align with you. Any kind of participation from your side is important; Whether you donate, offer your skills as a volunteer, or simply contribute an idea to a project. Any act of kindness, big or small, can make a significant difference in someone's life.",
+    "participationInProjects": "Participation in projects",
+    "createProject": "Create Project",
+    "createProjectDescription": "If you are the owner of a collection that is active in voluntary matters for purposes such as helping families without a guardian or a bad guardian, supporting the needy, supporting spiritual and Mahdavit projects, etc. You can create your desired projects in Mofid and attract financial and spiritual contributions to it",
+    "participationInProjectsDescription": "Voluntary work is one of the humanitarian and benevolent activities that are done entirely at the discretion of the volunteer and away from economic goals.These activities are like voluntary teaching in charities, helping to hold small charity market, holding spiritual festivals, painting walls, painting on surfaces, designing walls, renovating and beautifying children's centers, etc. If you are interested in volunteering today, you can participate in the projects registered on the mofid platform.",
+    "viewPlatform": "View the platform",
+    "participationInTheProject": "Participation in the project"
+  }
+}

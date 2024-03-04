@@ -1,0 +1,32 @@
+{
+  "manageAccounts": "User Accounts Management",
+  "manageAccountsDes": "Add , Exit or Switch Account",
+  "addAccount": "Add Account",
+  "displayName": "Display Name",
+  "editProfile": "Edit Profile",
+  "profileDes": "Your private profile",
+  "profileDesAssociation": "Your profile that people can see",
+  "actionsDes": "Project , Reguest",
+  "favoritesDes": "Project , Reguest",
+  "favorites": "Favorite",
+  "actionsDesUser": "Requests",
+  "actionsDesAssociation": "Projects",
+  "myProjects": "My projects",
+  "myRequests": "My requests",
+  "licenseAndBelongingList": "درخواست مجوز ها و تعلق ها",
+  "licenseAndBelongingListDes": "مجوزها و تعلق‌های گرفته شده از ستادها",
+  "walletDes": "Accounts , Increase Credit ,Traansactions",
+  "settingDes": "Language",
+  "donationDes": "مشارکت های انجام شده و رسید مشارکت",
+  "phoneNumber": "Phone Number",
+  "email": "Email Address",
+  "emailP": "Example@gmail.com",
+  "webUrl": "Web Url",
+  "webUrlP": "www.heyataleyasin.teh.ir",
+  "deleteAccountMessageTitle": "آیا مایل به حذف حساب کاربری خود از پلتفرم می باشید؟",
+  "deleteAccountMessageDescription": "در نظر داشته باشید با حذف حساب کاربری خود دیگر قادر به بازیابی اطلاعات حساب کاربری خود نمی باشید",
+  "formErrors": {
+    "bio": "Biography must be at most 1000 characters",
+    "missionStatement": "Mission statement must be at most 1000 characters"
+  }
+}

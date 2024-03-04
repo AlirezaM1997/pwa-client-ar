@@ -1,0 +1,20 @@
+{
+  "accounts": "",
+  "transactions": "معلومات عملية",
+  "increaseCredit": "زيادة الائتمان",
+  "addCardNumberDes": "لم تقم بإدخال معلومات للإيداع والسحب",
+  "increaseCreditDes": "أدخل المبلغ الذي تريد إيداعه في الحقل أدناه",
+  "withdrawal": "انسحاب",
+  "withdrawals": "انسحاب",
+  "cardNumber": "رقم البطاقة",
+  "addAmount":"أدخل المبلغ الذي تريد سحبه في الحقل أدناه",
+  "pendWithdrawal":"بانتظار الموافقة",
+  "rejectWithdrawal":"الانسحاب الناجح",
+  "doneWithdrawal":"انسحاب غير ناجح",
+  "rejectInvoice":"زيادة الائتمان غير ناجحة",
+  "doneInvoice":"زيادة الائتمان الناجحة",
+  "totalBalance":"إجمالي الأصول",
+  "addCardNumber":"أضف رقم البطاقة",
+  "creditPayment":"أضف رقم البطاقة",
+  "deleteCardNumberHint":"هل أنت متأكد من حذف رقم البطاقة؟"
+}

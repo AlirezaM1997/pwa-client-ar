@@ -1,0 +1,26 @@
+{
+  "manageAccounts": "إدارة الحسابات",
+  "manageAccountsDes": "اضافة حساب، الخروج وتغيير الحساب",
+  "addAccount": "إضافة حساب جديد",
+  "displayName": "الاسم",
+  "editProfile": "تعديل الحساب",
+  "favoritesDes": "المشاريع، الطلبات",
+  "profileDes": "ملفك الشخصي الخاص",
+  "profileDesAssociation":"حسابك العام يمكن للجميع مشاهدته",
+  "actionsDes": "المشاريع، الطلبات",
+  "favorites": "المفضلات",
+  "walletDes": "رفع الرصيد، عمليات الحساب، الحسابات  الدفع",
+  "settingDes": "اللغة",
+  "phoneNumber": "رقم الهاتف",
+  "phoneNumberP": "09198142926",
+  "email": "البريد الإلكتروني",
+  "emailP": "Example@gmail.com",
+  "webUrl": "رابط الويب",
+  "webUrlP": "www.heyataleyasin.teh.ir",
+  "myRequests": "طلباتي",
+  "requests": "طلبات",
+  "formErrors": {
+    "bio": "يجب أن تكون السيرة الذاتية 1000 حرف على الأكثر",
+    "missionStatement": "يجب أن لا يقل بيان المهمة عن 1000 حرف"
+  }
+}
